@@ -35,7 +35,7 @@ body {
    animation-duration: 6s;
    animation-timing-function: steps(100, end);
    animation-fill-mode: none;
-   animation-delay: 3s;
+   animation-delay: 1.5s;
 }
 
 /*typing animation*/
